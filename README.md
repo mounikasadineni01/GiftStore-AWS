@@ -13,4 +13,4 @@
 4. Send Greetings - Occasion, Greetings, Email Service
 5. Plan Event - Date, Location, Event Name, Advance Booking
 
-(Link to the Project)[http://ec2-15-206-112-58.ap-south-1.compute.amazonaws.com/CloudProject/index.php]
+[Link to the Project](http://ec2-15-206-112-58.ap-south-1.compute.amazonaws.com/CloudProject/index.php)
