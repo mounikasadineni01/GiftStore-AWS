@@ -1,5 +1,6 @@
 # GiftStore - Surprise Everyone
 
+ppt link: https://docs.google.com/presentation/d/1N3GvizbqdBnQzarkMPTHe-SgcM8GAX2oZkHNrD3h2fc/edit?usp=sharing
 - When you can't meet folks in person, use this app to surprise them.
 - Our online gift store is comprised of a staff with extensive technological and operational experience, allowing us to offer the most recent surprises and presents at the most competitive prices accessible. 
 - In addition to sending gifts, we attempt to make that special event even more wonderful for you and your loved ones by bringing surprise gifts such as cakes, chocolates, teddy bears, and sweets.
